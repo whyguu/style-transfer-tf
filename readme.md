@@ -4,9 +4,11 @@
  
  2. python train.py
  
- have a cup of tea, then you will get an shit-like transferred image 
+ 3. have a cup of tea, then you will get a shit-like transferred image in images/output/
  
  # Bibliography
  Image Style Transfer Using Convolutional Neural Networks
  
  also called  A Neural Algorithm of Artistic Style in arxiv.
+ 
+ 
