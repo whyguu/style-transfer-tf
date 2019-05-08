@@ -6,7 +6,7 @@
  
  2. python train.py
  
- 3. have a cup of tea, then you will get a shit-like transferred image in images/output/
+ 3. have a cup of tea, then you will get a transferred image in images/output/
  
  # Bibliography
  Image Style Transfer Using Convolutional Neural Networks
